@@ -1,0 +1,220 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "payment_method": "jcb",
+      "total_votes": 5,
+      "costForOne": 826,
+      "reviews": "good",
+      "Categories": "Indian",
+      "Image": "https://media.istockphoto.com/photos/indian-butter-chicken-curry-picture-id177043240?k=20&m=177043240&s=612x612&w=0&h=eIBoCiH4DN3AGMTSewZCrWOiIh73rzoNea3knFsMOE4="
+    },
+    {
+      "id": 2,
+      "payment_method": "mastercard",
+      "total_votes": 4,
+      "costForOne": 935,
+      "reviews": "awesome",
+      "Categories": "Breakfast",
+      "Image": "https://media.istockphoto.com/photos/breakfast-with-bacon-eggs-pancakes-and-toast-picture-id533645537?k=20&m=533645537&s=612x612&w=0&h=KJXCpAo9XQvMI_djcnRMSsz_Y7OGS6z3-8VThxWyR0Q="
+    },
+    {
+      "id": 3,
+      "payment_method": "cash",
+      "total_votes": 3,
+      "costForOne": 1107,
+      "reviews": "good",
+      "Categories": "Yogurt",
+      "Image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/10/fruit-berries-yogurt-1296x728-header.jpg?w=1155&h=1528"
+    },
+    {
+      "id": 4,
+      "payment_method": "jcb",
+      "total_votes": 1,
+      "costForOne": 1020,
+      "reviews": "tasty",
+      "Categories": "Dessert",
+      "Image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/raspberry-and-pistachio-semifreddo-jpg-1589489725.jpg?crop=0.785xw:0.524xh;0,0.171xh&resize=640:*"
+    },
+    {
+      "id": 5,
+      "payment_method": "cash",
+      "total_votes": 4,
+      "reviews": "good",
+      "costForOne": 1860,
+      "Categories": "Sandwitch",
+      "Image": "https://static.toiimg.com/thumb/83740315.cms?width=1200&height=900"
+    },
+    {
+      "id": 6,
+      "payment_method": "jcb",
+      "total_votes": 5,
+      "costForOne": 1569,
+      "reviews": "awesome",
+      "Categories": "Sausage",
+      "Image": "https://thumbs.dreamstime.com/z/grilled-sausages-addition-herbs-vegetables-grill-plate-outdoors-close-up-grilling-food-bbq-barbecue-outdoor-149486569.jpg"
+    },
+    {
+      "id": 7,
+      "payment_method": "cash",
+      "total_votes": 2,
+      "costForOne": 518,
+      "reviews": "good",
+      "Categories": "Hamburger",
+      "Image": "https://static.toiimg.com/thumb/79693966.cms?width=680&height=512&imgsize=150513"
+    },
+    {
+      "id": 8,
+      "payment_method": "jcb",
+      "total_votes": 3,
+      "costForOne": 1786,
+      "reviews": "tasty",
+      "Categories": "Hotdog",
+      "Image": "https://static.toiimg.com/thumb/54478818.cms?width=1200&height=900"
+    },
+    {
+      "id": 9,
+      "payment_method": "mastercard",
+      "total_votes": 4,
+      "reviews": "great",
+      "costForOne": 392,
+      "Categories": "Pizza",
+      "Image": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/10/17/pizza.jpg"
+    },
+    {
+      "id": 10,
+      "payment_method": "mastercard",
+      "total_votes": 1,
+      "reviews": "awesome",
+      "costForOne": 682,
+      "Categories": "Chicken Roast",
+      "Image": "https://static.toiimg.com/thumb/53007558.cms?width=1200&height=900"
+    },
+    {
+      "id": 11,
+      "payment_method": "jcb",
+      "total_votes": 3,
+      "costForOne": 649,
+      "reviews": "good",
+      "Categories": "Sea Food",
+      "Image": "https://images.unsplash.com/photo-1606850780554-b55ea4dd0b70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2VhJTIwZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 12,
+      "payment_method": "jcb",
+      "total_votes": 5,
+      "costForOne": 1346,
+      "reviews": "great",
+      "Categories": "Kabab",
+      "Image": "https://c.ndtvimg.com/2020-01/a39okhfk_620_625x300_21_January_20.jpg"
+    },
+    {
+      "id": 13,
+      "payment_method": "laser",
+      "total_votes": 2,
+      "costForOne": 546,
+      "reviews": "tasty",
+      "Categories": "Salad",
+      "Image": "https://www.licious.in/blog/wp-content/uploads/2020/12/3-Step-Chicken-Salad.jpg"
+    },
+    {
+      "id": 14,
+      "payment_method": "mastercard",
+      "total_votes": 3,
+      "costForOne": 963,
+      "reviews": "good",
+      "Categories": "Spaghetti",
+      "Image": "https://natashaskitchen.com/wp-content/uploads/2015/01/spaghetti-and-meatballs-600x900.jpg"
+    },
+    {
+      "id": 15,
+      "payment_method": "jcb",
+      "total_votes": 1,
+      "costForOne": 300,
+      "reviews": "awesome",
+      "Categories": "Biryani",
+      "Image": "https://www.thedeliciouscrescent.com/wp-content/uploads/2019/04/Chicken-Biryani-Square.jpg"
+    },
+    {
+      "id": 16,
+      "payment_method": "jcb",
+      "total_votes": 4,
+      "costForOne": 1859,
+      "reviews": "tasty",
+      "Categories": "Shrimp",
+      "Image": "https://assets.bonappetit.com/photos/58a4e12a9fda6d7fbc740e91/3:4/w_2498,h_3331,c_limit/shrimp-scampi.jpg"
+    },
+    {
+      "id": 17,
+      "payment_method": "jcb",
+      "total_votes": 5,
+      "costForOne": 1308,
+      "reviews": "tasty",
+      "Categories": "Cocktail",
+      "Image": "https://img.delicious.com.au/CKMUcpx-/w1200/del/2015/11/summer-cocktails-24374-3.jpg"
+    },
+    {
+      "id": 18,
+      "payment_method": "diners-club-enroute",
+      "total_votes": 5,
+      "reviews": "great",
+      "costForOne": 750,
+      "Categories": "Sushi",
+      "Image": "https://images.japancentre.com/recipes/pics/18/main/makisushi.jpg?1557308201"
+    },
+    {
+      "id": 19,
+      "payment_method": "maestro",
+      "total_votes": 3,
+      "costForOne": 1193,
+      "reviews": "awesome",
+      "Categories": "Coffee",
+      "Image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg"
+    },
+    {
+      "id": 20,
+      "payment_method": "china-unionpay",
+      "total_votes": 4,
+      "costForOne": 1282,
+      "reviews": "good",
+      "Categories": "IceCream",
+      "Image": "https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg"
+    },
+    {
+      "payment_method": "mastercard",
+      "total_votes": "3",
+      "costForOne": "345",
+      "reviews": "good",
+      "Categories": "South Indian",
+      "Image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FSeries%2F2020-07-South-Indian-Chritra-Agrawal%2FDosa%20Making%20-%20How%20to%20steps%2FShot_21_-_Finished_dosas",
+      "id": 21
+    },
+    {
+      "payment_method": "cash",
+      "total_votes": "2",
+      "costForOne": "890",
+      "reviews": "mouth melting taste",
+      "Categories": "White Sauce Pasta",
+      "Image": "https://www.whiskaffair.com/wp-content/uploads/2021/05/White-Sauce-Pasta-2-6-500x500.jpg",
+      "id": 22
+    },
+    {
+      "payment_method": "cash",
+      "total_votes": "5",
+      "costForOne": "670",
+      "reviews": "great",
+      "Categories": "Manchurian",
+      "Image": "http://www.theterracekitchen.in/wp-content/uploads/2019/08/089.-Veg-Manchurian-1.png",
+      "id": 23
+    },
+    {
+      "payment_method": "cash",
+      "total_votes": "4",
+      "costForOne": "320",
+      "reviews": "Awesome",
+      "Categories": "Maggie",
+      "Image": "https://5.imimg.com/data5/XG/IR/GLADMIN-60795231/maggie-500x500.png",
+      "id": 24
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.restaurent_inputFields{
+    text-align: center;
+    width:50%;
+    color:whitesmoke;
+    font-family: 'Bree Serif', serif;
+    box-shadow: rgba(239, 236, 236, 0.3) 0px 19px 38px, rgba(226, 221, 221, 0.22) 0px 15px 12px;
+  
+    margin-top: 30px;
+    border-radius: 50%;
+  
+  }
+  .restaurent_inputFields input {
+    height:50px;
+ 
+  }
+  .OuterBlackborder{
+    margin-top: 50px;
+    border:10px solid whitesmoke;
+    width:70%;
+    margin:auto;
+    border-radius: 50%;
+    height:80vh;
+  }
+  *{
+    font-family: 'Bree Serif', serif;
+  }
+  
